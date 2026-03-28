@@ -1,0 +1,14 @@
+# requirements.txt
+
+Flask==3.1.0
+numpy==1.26.4
+scikit-learn==1.5.2
+tensorflow==2.16.1
+keras==3.3.3
+pillow==10.4.0
+transformers==4.51.3
+torch==2.7.0
+tokenizers==0.21.1
+safetensors==0.5.3
+huggingface-hub==0.30.2
+pickle-mixin==1.0.2
