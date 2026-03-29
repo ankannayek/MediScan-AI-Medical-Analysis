@@ -1,3 +1,0 @@
-Blood/model.safetensors filter=lfs diff=lfs merge=lfs -text
-Blood filter=lfs diff=lfs merge=lfs -text
-Blood/** filter=lfs diff=lfs merge=lfs -text
